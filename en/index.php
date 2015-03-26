@@ -6,8 +6,9 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-<title>What is Bitcoin? - We Use Coins</title>
-<meta name="description" content="">
+<title>What is Bitcoin? - We Use Coins Bitcoin Experts Can Help</title>
+<meta name="description" content="What is Bitcoin? Bitcoin experts teach about this digital currency with the best bitcoin wallets and how to buy bitcoin from the best bitcoin exchanges.">
+<meta name="keywords" content="bitcoin, what is bitcoin, best bitcoin wallet, best bitcoin exchange, buy bitcoin, virtual currency, digital currency">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="viewport" content="width=device-width">
