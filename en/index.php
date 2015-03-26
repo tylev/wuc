@@ -85,7 +85,7 @@
 
 </div>
 
-
+<h1><center>What is Bitcoin?</h1></center>
 <div class="youtube-player">
 <iframe width="800" height="450" frameborder="0" allowfullscreen="" src="//www.youtube.com/embed/Gc2en3nHxA4?fs=1&amp;hl=en_US&amp;rel=0&showinfo=0&wmode=opaque&amp;hd=1&amp;origin=http://www.weusecoins.com" type="text/html" style="margin:0 auto;" ></iframe>
 </div>
@@ -247,11 +247,15 @@
 	</div>
 
 	<h3>Get Daily Bitcoin News in Your Inbox:</h3>
-    <form id="signup" class="subscribe" action="<?=$_SERVER['PHP_SELF']; ?>" method="get">
-    <div class="form-group has-error has-feedback">
-    <input type="email" id="email" name="email" placeholder="Enter your e-mail address"/>
-    <input type="submit" value="Sign up Now" data-toggle="tooltip" data-placement="left" title="Tooltip on left" />
-    </div>
+<div class="AW-Form-439075631"></div>
+<script type="text/javascript">(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//forms.aweber.com/form/31/439075631.js";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, "script", "aweber-wjs-c40dh7zu5"));
+</script>
     
 
     </form>
@@ -318,7 +322,7 @@
         <h3>Feedback</h3>
 		<h4>Help us get better!</h4>
         
-        <p>Our mission is to support Bitcoin by making it easier for new users to get started. Send us feedback of any kind!</p>
+        <p>Our mission is to support Bitcoin by making it easier for new users to get started. Please contribute to our <a href="https://github.com/sunnankar/wuc">Github</a>.</p>
         
         <div class="footer-box">
         <p>Email <a href="mailto:info@weusecoins.com?Subject=Weusecoins%20Info%20Mail" target="_top">info@weusecoins.com</a>.</p>
@@ -345,7 +349,7 @@
         </div>
     </div>
     <div class="row text-center copyright full-widthify" style="margin-top:0; padding:20px 0; border-top:1px solid rgba(0,0,0,0.4); box-shadow:0 -1px 0 rgba(255,255,255,0.05)">
-  &#169; <?php echo date("Y");?> BF Labs, Inc. <a href="https://www.weusecoins.com/en/terms">Terms and conditions</a>
+  &#169; <?php echo date("Y");?> Hesiod Services LLC <a href="https://www.weusecoins.com/en/terms">Terms and Conditions</a>
   	</div>
     </div>
     </div>
