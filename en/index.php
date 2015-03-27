@@ -76,12 +76,12 @@
         </div>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-        	<li class="active"><a href="getting-started">Start</a></li>
-            <li><a href="bitcoin-price/bitcoin-price">Price</a></li>
+        	<li class="active"><a href="getting-started.html">Start</a></li>
+            <li><a href="bitcoin-price/bitcoin-price.html">Price</a></li>
             <li><a href="http://www.bitcoin.kn">Interviews</a></li>
-            <li><a href="questions">Q&A</a></li>
-            <li><a href="merchant-tools">Bitcoin for Merchants</a></li>
-            <li><a href="mining-guide">Mining Guide</a></li>
+            <li><a href="questions.html">Q&A</a></li>
+            <li><a href="merchant-tools.html">Bitcoin for Merchants</a></li>
+            <li><a href="mining-guide.html">Mining Guide</a></li>
             </ul>
         </div><!--/.navbar-collapse -->
 
@@ -343,10 +343,10 @@
         
         <div class="col-sm-5">
         	<ul class="footer-menu">
-                <li><a href="translations">Translations</a></li>
-                <li><a href="materials">Materials</a></li>
-                <li><a href="team">Team</a></li>
-                <li><a href="about">About</a></li>                                 
+                <li><a href="translations.html">Translations</a></li>
+                <li><a href="materials.html">Materials</a></li>
+                <li><a href="team.html">Team</a></li>
+                <li><a href="about.html">About</a></li>                                 
             </ul>
         </div>
     </div>
