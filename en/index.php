@@ -130,7 +130,7 @@
     </div>
     
     <div class="col-lg-8">
-    <p>Bitcoin verifies transactions with the same state-of-the-art encryption that is used in military and government applications.</p>
+    <p>Bitcoin verifies transactions with the same state-of-the-art encryption that is used in banking, military and government applications.</p>
     </div>
 </div>
 
