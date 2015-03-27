@@ -15,7 +15,7 @@
 <link rel="stylesheet" href="/data_v2/css/bootstrap.css">
 <link rel="stylesheet" href="/data_v2/css/bootstrap-theme.css">
 <link rel="stylesheet" href="/data_v2/css/style.css">
-<link rel="shortcut icon" href="favicon.ico">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 <link rel="apple-touch-icon" href="/data_v2/apple-touch-icon.png">
 <!-- For iPad with high-resolution Retina display running iOS ≥ 7: -->
 <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/data_v2/apple-touch-icon-152x152-precomposed.png">
