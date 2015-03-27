@@ -77,7 +77,7 @@
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
         	<li class="active"><a href="getting-started.html">Start</a></li>
-            <li><a href="bitcoin-price/bitcoin-price.html">Price</a></li>
+            <li><a href="http://www.weusecoins.com/bitcoin-price/bitcoin-price.html">Price</a></li>
             <li><a href="http://www.bitcoin.kn">Interviews</a></li>
             <li><a href="questions.html">Q&A</a></li>
             <li><a href="merchant-tools.html">Bitcoin for Merchants</a></li>
