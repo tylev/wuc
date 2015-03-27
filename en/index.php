@@ -76,9 +76,10 @@
         </div>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-			<li class="active"><a href="/en/">What is Bitcoin?</a></li>
-            <li><a href="getting-started">Getting Started</a></li>
-            <li><a href="questions">Questions & Answers</a></li>
+			<a href="/en/">What is Bitcoin?</a></li>
+                        <li class="active"><a href="getting-started">Start</a></li>
+            <li><a href="http://www.bitcoin.kn">Interviews</a></li>
+            <li><a href="questions">Q&A</a></li>
             <li><a href="merchant-tools">Bitcoin for Merchants</a></li>
             <li><a href="mining-guide">Mining Guide</a></li>
             </ul>
