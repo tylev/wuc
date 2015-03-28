@@ -1150,6 +1150,38 @@ h2.keeping-up {
 	padding:15px 40px 0px 0;	
 }
 
+.bitcoin-expert-interviews-page {
+	padding:15px 10% 40px 10%; 
+	margin:0; 
+	text-align:justify !important;	
+}
+
+.bitcoin-expert-interviews-page h2 span {
+	color:#E1B000;	
+}
+
+h2.keeping-up {
+	background:url(../images/icons/icon-gs-up-to-date.png) no-repeat right top;
+	padding:15px 40px 0px 0;	
+}
+
+h2.get-wallet {
+	background:url(../images/icons/icon-gs-get-a-wallet.png) no-repeat right top;
+	padding:15px 40px 0px 0;	
+}
+
+h2.get-bitcoins {
+	background:url(../images/icons/icon-gs-get-bitcoins.png) no-repeat right top;
+	padding:15px 40px 0px 0;	
+}
+
+h2.what-to-do {
+	background:url(../images/icons/icon-gs-what-can-do-bitcoin.png) no-repeat right top;
+	padding:15px 40px 0px 0;	
+}
+
+
+
 table.ledger {
  margin-bottom:20px;
  font-size:14px; 
