@@ -1,4 +1,4 @@
-For Web developers / Designers / Translators
+# For Web developers / Designers / Translators
 
 Each localized version of weusecoins is independent of each other and use static HTML, CSS or PHP files.
 
