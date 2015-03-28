@@ -810,7 +810,7 @@ var BTCQuote = function () {
 							'<b style="font-weight: bold; font-size: 10px; color: #999;">$</b><b id="btc-ask-field" style="font-weight: bold; font-size: 10px; color: #999;"></b>',
 						'</span>',
 						'<span style="position: absolute; right: 0px; top: 14px; color: #666; text-align: right; width: 160px; font-size: 10px;">',
-							'Powered by <a href="http://www.weusecoins.com/" target="_blank" style="background-color: inherit; float: right; margin-left: 4px; color: #666; text-decoration: underline; cursor: pointer; font-size: 10px; padding: 0px;">WeUseCoins.com</a>',
+							'Powered by <a href="https://www.weusecoins.com/bitcoin-price/bitcoin-price.html" target="_blank" style="background-color: inherit; float: right; margin-left: 4px; color: #666; text-decoration: underline; cursor: pointer; font-size: 10px; padding: 0px;">WeUseCoins.com</a>',
 						'</span>',
 					'</div>',
 				'</div>',
