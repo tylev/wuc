@@ -1,803 +1,803 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-	xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="https://www.w3.org/1999/xhtml">
 
 <url>
-  <loc>http://www.weusecoins.com/en/</loc>
+  <loc>https://www.weusecoins.com/en/</loc>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.weusecoins.com/ja/</loc>
+  <loc>https://www.weusecoins.com/ja/</loc>
   <lastmod>2015-03-27T20:09:32+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.weusecoins.com/de/</loc>
+  <loc>https://www.weusecoins.com/de/</loc>
   <lastmod>2015-03-27T20:08:16+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.weusecoins.com/fr/</loc>
+  <loc>https://www.weusecoins.com/fr/</loc>
   <lastmod>2015-03-27T20:09:09+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.weusecoins.com/nl/</loc>
+  <loc>https://www.weusecoins.com/nl/</loc>
   <lastmod>2015-03-27T20:10:00+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.weusecoins.com/en/getting-started.html</loc>
+  <loc>https://www.weusecoins.com/en/getting-started.html</loc>
   <lastmod>2015-03-28T05:35:01+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.weusecoins.com/bitcoin-price/bitcoin-price.html</loc>
+  <loc>https://www.weusecoins.com/bitcoin-price/bitcoin-price.html</loc>
   <lastmod>2015-03-28T05:37:46+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.weusecoins.com/en/bitcoin-expert-interviews.html</loc>
+  <loc>https://www.weusecoins.com/en/bitcoin-expert-interviews.html</loc>
   <lastmod>2015-03-28T15:47:01+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.weusecoins.com/en/questions.html</loc>
+  <loc>https://www.weusecoins.com/en/questions.html</loc>
   <lastmod>2015-03-28T05:35:04+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.weusecoins.com/en/merchant-tools.html</loc>
+  <loc>https://www.weusecoins.com/en/merchant-tools.html</loc>
   <lastmod>2015-03-28T05:35:02+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.weusecoins.com/en/mining-guide.html</loc>
+  <loc>https://www.weusecoins.com/en/mining-guide.html</loc>
   <lastmod>2015-03-28T05:35:03+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.weusecoins.com/en/translations.html</loc>
+  <loc>https://www.weusecoins.com/en/translations.html</loc>
   <lastmod>2015-03-28T05:35:05+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.weusecoins.com/en/materials.html</loc>
+  <loc>https://www.weusecoins.com/en/materials.html</loc>
   <lastmod>2015-03-28T05:35:02+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.weusecoins.com/en/team.html</loc>
+  <loc>https://www.weusecoins.com/en/team.html</loc>
   <lastmod>2015-03-28T05:35:04+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.weusecoins.com/en/about.html</loc>
+  <loc>https://www.weusecoins.com/en/about.html</loc>
   <lastmod>2015-03-28T14:40:19+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.weusecoins.com/ja/index.html</loc>
+  <loc>https://www.weusecoins.com/ja/index.html</loc>
   <lastmod>2015-03-27T20:09:32+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.weusecoins.com/en/bitcoin-price.html</loc>
+  <loc>https://www.weusecoins.com/en/bitcoin-price.html</loc>
   <lastmod>2015-03-28T05:34:56+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 
 <url>
-  <loc>http://bitcoin.org/en/translations</loc>
+  <loc>https://www.weusecoins.com/en/translations.html</loc>
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/uebersetzungen" />
+    href="https://www.weusecoins.com/de/uebersetzungen" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/traductions" />
+    href="https://www.weusecoins.com/fr/traductions" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/vertalingen" />
+    href="https://www.weusecoins.com/nl/vertalingen" />
 </url>
 <url>
-  <loc>http://bitcoin.org/de/uebersetzungen</loc>
+  <loc>https://www.weusecoins.com/de/uebersetzungen</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/translations" />
+    href="https://www.weusecoins.com/en/translations.html" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/traductions" />
+    href="https://www.weusecoins.com/fr/traductions" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/vertalingen" />
+    href="https://www.weusecoins.com/nl/vertalingen" />
 </url>
 <url>
-  <loc>http://bitcoin.org/fr/traductions</loc>
+  <loc>https://www.weusecoins.com/fr/traductions</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/translations" />
+    href="https://www.weusecoins.com/en/translations.html" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/uebersetzungen" />
+    href="https://www.weusecoins.com/de/uebersetzungen" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/vertalingen" />
+    href="https://www.weusecoins.com/nl/vertalingen" />
 </url>
 <url>
-  <loc>http://bitcoin.org/nl/vertalingen</loc>
+  <loc>https://www.weusecoins.com/nl/vertalingen</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/translations" />
+    href="https://www.weusecoins.com/en/translations.html" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/uebersetzungen" />
+    href="https://www.weusecoins.com/de/uebersetzungen" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/traductions" />
+    href="https://www.weusecoins.com/fr/traductions" />
 </url>
 <url>
-  <loc>http://bitcoin.org/en/questions</loc>
+  <loc>https://www.weusecoins.com/en/questions.html</loc>
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/questions" />
+    href="https://www.weusecoins.com/de/questions" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/questions" />
+    href="https://www.weusecoins.com/fr/questions" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/vragen" />
+    href="https://www.weusecoins.com/nl/vragen" />
 </url>
 <url>
-  <loc>http://bitcoin.org/de/questions</loc>
+  <loc>https://www.weusecoins.com/de/questions</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/questions" />
+    href="https://www.weusecoins.com/en/questions.html" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/questions" />
+    href="https://www.weusecoins.com/fr/questions" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/vragen" />
+    href="https://www.weusecoins.com/nl/vragen" />
 </url>
 <url>
-  <loc>http://bitcoin.org/fr/questions</loc>
+  <loc>https://www.weusecoins.com/fr/questions</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/questions" />
+    href="https://www.weusecoins.com/en/questions.html" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/questions" />
+    href="https://www.weusecoins.com/de/questions" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/vragen" />
+    href="https://www.weusecoins.com/nl/vragen" />
 </url>
 <url>
-  <loc>http://bitcoin.org/nl/vragen</loc>
+  <loc>https://www.weusecoins.com/nl/vragen</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/questions" />
+    href="https://www.weusecoins.com/en/questions.html" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/questions" />
+    href="https://www.weusecoins.com/de/questions" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/questions" />
+    href="https://www.weusecoins.com/fr/questions" />
 </url>
 <url>
-  <loc>http://bitcoin.org/en/mining-guide</loc>
+  <loc>https://www.weusecoins.com/en/mining-guide.html</loc>
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/mining-anleitung" />
+    href="https://www.weusecoins.com/de/mining-anleitung" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/guide-minage" />
+    href="https://www.weusecoins.com/fr/guide-minage" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/ontginnings-gids" />
+    href="https://www.weusecoins.com/nl/ontginnings-gids" />
 </url>
 <url>
-  <loc>http://bitcoin.org/de/mining-anleitung</loc>
+  <loc>https://www.weusecoins.com/de/mining-anleitung</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/mining-guide" />
+    href="https://www.weusecoins.com/en/mining-guide.html" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/guide-minage" />
+    href="https://www.weusecoins.com/fr/guide-minage" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/ontginnings-gids" />
+    href="https://www.weusecoins.com/nl/ontginnings-gids" />
 </url>
 <url>
-  <loc>http://bitcoin.org/fr/guide-minage</loc>
+  <loc>https://www.weusecoins.com/fr/guide-minage</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/mining-guide" />
+    href="https://www.weusecoins.com/en/mining-guide.html" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/mining-anleitung" />
+    href="https://www.weusecoins.com/de/mining-anleitung" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/ontginnings-gids" />
+    href="https://www.weusecoins.com/nl/ontginnings-gids" />
 </url>
 <url>
-  <loc>http://bitcoin.org/nl/ontginnings-gids</loc>
+  <loc>https://www.weusecoins.com/nl/ontginnings-gids</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/mining-guide" />
+    href="https://www.weusecoins.com/en/mining-guide" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/mining-anleitung" />
+    href="https://www.weusecoins.com/de/mining-anleitung" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/guide-minage" />
+    href="https://www.weusecoins.com/fr/guide-minage" />
 </url>
 <url>
-  <loc>http://bitcoin.org/en/getting-started</loc>
+  <loc>https://www.weusecoins.com/en/getting-started.html</loc>
   <xhtml:link
     rel="alternate"
     hreflang="ja"
-    href="https://www.weusecoins.org/ja/getting-started" />
+    href="https://www.weusecoins.com/ja/getting-started" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/erste-schritte" />
+    href="https://www.weusecoins.com/de/erste-schritte" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/bitcoin-debuter" />
+    href="https://www.weusecoins.com/fr/bitcoin-debuter" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/aan-de-slag" />
+    href="https://www.weusecoins.com/nl/aan-de-slag" />
 </url>
 <url>
-  <loc>http://bitcoin.org/ja/getting-started</loc>
+  <loc>https://www.weusecoins.com/ja/getting-started</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/getting-started" />
+    href="https://www.weusecoins.com/en/getting-started.html" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/erste-schritte" />
+    href="https://www.weusecoins.com/de/erste-schritte" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/bitcoin-debuter" />
+    href="https://www.weusecoins.com/fr/bitcoin-debuter" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/aan-de-slag" />
+    href="https://www.weusecoins.com/nl/aan-de-slag" />
 </url>
 <url>
-  <loc>http://bitcoin.org/de/erste-schritte</loc>
+  <loc>https://www.weusecoins.com/de/erste-schritte</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/getting-started" />
+    href="https://www.weusecoins.com/en/getting-started.html" />
   <xhtml:link
     rel="alternate"
     hreflang="ja"
-    href="https://www.weusecoins.org/ja/getting-started" />
+    href="https://www.weusecoins.com/ja/getting-started" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/bitcoin-debuter" />
+    href="https://www.weusecoins.com/fr/bitcoin-debuter" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/aan-de-slag" />
+    href="https://www.weusecoins.com/nl/aan-de-slag" />
 </url>
 <url>
-  <loc>http://bitcoin.org/fr/bitcoin-debuter</loc>
+  <loc>https://www.weusecoins.com/fr/bitcoin-debuter</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/getting-started" />
+    href="https://www.weusecoins.com/en/getting-started.html" />
   <xhtml:link
     rel="alternate"
     hreflang="ja"
-    href="https://www.weusecoins.org/ja/getting-started" />
+    href="https://www.weusecoins.com/ja/getting-started" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/erste-schritte" />
+    href="https://www.weusecoins.com/de/erste-schritte" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/aan-de-slag" />
+    href="https://www.weusecoins.com/nl/aan-de-slag" />
 </url>
 <url>
-  <loc>http://bitcoin.org/nl/aan-de-slag</loc>
+  <loc>https://www.weusecoins.com/nl/aan-de-slag</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/getting-started" />
+    href="https://www.weusecoins.com/en/getting-started.html" />
   <xhtml:link
     rel="alternate"
     hreflang="ja"
-    href="https://www.weusecoins.org/ja/getting-started" />
+    href="https://www.weusecoins.com/ja/getting-started" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/erste-schritte" />
+    href="https://www.weusecoins.com/de/erste-schritte" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/bitcoin-debuter" />
+    href="https://www.weusecoins.com/fr/bitcoin-debuter" />
 </url>
 <url>
-  <loc>http://bitcoin.org/en/</loc>
+  <loc>https://www.weusecoins.com/en/</loc>
   <xhtml:link
     rel="alternate"
     hreflang="ja"
-    href="https://www.weusecoins.org/ja/" />
+    href="https://www.weusecoins.com/ja/" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/" />
+    href="https://www.weusecoins.com/de/" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/" />
+    href="https://www.weusecoins.com/fr/" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/" />
+    href="https://www.weusecoins.com/nl/" />
 </url>
 <url>
-  <loc>http://bitcoin.org/ja/</loc>
+  <loc>https://www.weusecoins.com/ja/</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/" />
+    href="https://www.weusecoins.com/en/" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/" />
+    href="https://www.weusecoins.com/de/" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/" />
+    href="https://www.weusecoins.com/fr/" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/" />
+    href="https://www.weusecoins.com/nl/" />
 </url>
 <url>
-  <loc>http://bitcoin.org/de/</loc>
+  <loc>https://www.weusecoins.com/de/</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/" />
+    href="https://www.weusecoins.com/en/" />
   <xhtml:link
     rel="alternate"
     hreflang="ja"
-    href="https://www.weusecoins.org/ja/" />
+    href="https://www.weusecoins.com/ja/" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/" />
+    href="https://www.weusecoins.com/fr/" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/" />
+    href="https://www.weusecoins.com/nl/" />
 </url>
 <url>
-  <loc>http://bitcoin.org/fr/</loc>
+  <loc>https://www.weusecoins.com/fr/</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/" />
+    href="https://www.weusecoins.com/en/" />
   <xhtml:link
     rel="alternate"
     hreflang="ja"
-    href="https://www.weusecoins.org/ja/" />
+    href="https://www.weusecoins.com/ja/" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/" />
+    href="https://www.weusecoins.com/de/" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/" />
+    href="https://www.weusecoins.com/nl/" />
 </url>
 <url>
-  <loc>http://bitcoin.org/nl/</loc>
+  <loc>https://www.weusecoins.com/nl/</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/" />
+    href="https://www.weusecoins.com/en/" />
   <xhtml:link
     rel="alternate"
     hreflang="ja"
-    href="https://www.weusecoins.org/ja/" />
+    href="https://www.weusecoins.com/ja/" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/" />
+    href="https://www.weusecoins.com/de/" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/" />
+    href="https://www.weusecoins.com/fr/" />
 </url>
 <url>
-  <loc>http://bitcoin.org/en/about</loc>
+  <loc>https://www.weusecoins.com/en/about.html</loc>
   <xhtml:link
     rel="alternate"
     hreflang="ja"
-    href="https://www.weusecoins.org/ja/about" />
+    href="https://www.weusecoins.com/ja/about" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/ueber" />
+    href="https://www.weusecoins.com/de/ueber" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/a-propos" />
+    href="https://www.weusecoins.com/fr/a-propos" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/over" />
+    href="https://www.weusecoins.com/nl/over" />
 </url>
 <url>
-  <loc>http://bitcoin.org/ja/about</loc>
+  <loc>https://www.weusecoins.com/ja/about</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/about" />
+    href="https://www.weusecoins.com/en/about.html" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/ueber" />
+    href="https://www.weusecoins.com/de/ueber" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/a-propos" />
+    href="https://www.weusecoins.com/fr/a-propos" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/over" />
+    href="https://www.weusecoins.com/nl/over" />
 </url>
 <url>
-  <loc>http://bitcoin.org/de/ueber</loc>
+  <loc>https://www.weusecoins.com/de/ueber</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/about" />
+    href="https://www.weusecoins.com/en/about.html" />
   <xhtml:link
     rel="alternate"
     hreflang="ja"
-    href="https://www.weusecoins.org/ja/about" />
+    href="https://www.weusecoins.com/ja/about" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/a-propos" />
+    href="https://www.weusecoins.com/fr/a-propos" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/over" />
+    href="https://www.weusecoins.com/nl/over" />
 </url>
 <url>
-  <loc>http://bitcoin.org/fr/a-propos</loc>
+  <loc>https://www.weusecoins.com/fr/a-propos</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/about" />
+    href="https://www.weusecoins.com/en/about.html" />
   <xhtml:link
     rel="alternate"
     hreflang="ja"
-    href="https://www.weusecoins.org/ja/about" />
+    href="https://www.weusecoins.com/ja/about" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/ueber" />
+    href="https://www.weusecoins.com/de/ueber" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/over" />
+    href="https://www.weusecoins.com/nl/over" />
 </url>
 <url>
-  <loc>http://bitcoin.org/nl/over</loc>
+  <loc>https://www.weusecoins.com/nl/over</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/about" />
+    href="https://www.weusecoins.com/en/about.html" />
   <xhtml:link
     rel="alternate"
     hreflang="ja"
-    href="https://www.weusecoins.org/ja/about" />
+    href="https://www.weusecoins.com/ja/about" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/ueber" />
+    href="https://www.weusecoins.com/de/ueber" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/a-propos" />
+    href="https://www.weusecoins.com/fr/a-propos" />
 </url>
 <url>
-  <loc>http://bitcoin.org/en/fund</loc>
+  <loc>https://www.weusecoins.com/en/fund.html</loc>
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/kapital" />
+    href="https://www.weusecoins.com/de/kapital" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/fonds" />
+    href="https://www.weusecoins.com/fr/fonds" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/fonds" />
+    href="https://www.weusecoins.com/nl/fonds" />
 </url>
 <url>
-  <loc>http://bitcoin.org/de/kapital</loc>
+  <loc>https://www.weusecoins.com/de/kapital</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/fund" />
+    href="https://www.weusecoins.com/en/fund.html" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/fonds" />
+    href="https://www.weusecoins.com/fr/fonds" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/fonds" />
+    href="https://www.weusecoins.com/nl/fonds" />
 </url>
 <url>
-  <loc>http://bitcoin.org/fr/fonds</loc>
+  <loc>https://www.weusecoins.com/fr/fonds</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/fund" />
+    href="https://www.weusecoins.com/en/fund.html" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/kapital" />
+    href="https://www.weusecoins.com/de/kapital" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/fonds" />
+    href="https://www.weusecoins.com/nl/fonds" />
 </url>
 <url>
-  <loc>http://bitcoin.org/nl/fonds</loc>
+  <loc>https://www.weusecoins.com/nl/fonds</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/fund" />
+    href="https://www.weusecoins.com/en/fund.html" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/kapital" />
+    href="https://www.weusecoins.com/de/kapital" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/fonds" />
+    href="https://www.weusecoins.com/fr/fonds" />
 </url>
 <url>
-  <loc>http://bitcoin.org/en/merchant-tools</loc>
+  <loc>https://www.weusecoins.com/en/merchant-tools.html</loc>
   <xhtml:link
     rel="alternate"
     hreflang="ja"
-    href="https://www.weusecoins.org/ja/merchant" />
+    href="https://www.weusecoins.com/ja/merchant" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/verkaeufer-werkzeuge" />
+    href="https://www.weusecoins.com/de/verkaeufer-werkzeuge" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/bitcoin-commerce" />
+    href="https://www.weusecoins.com/fr/bitcoin-commerce" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/voor-handelaars" />
+    href="https://www.weusecoins.com/nl/voor-handelaars" />
 </url>
 <url>
-  <loc>http://bitcoin.org/ja/merchant</loc>
+  <loc>https://www.weusecoins.com/ja/merchant</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/merchant-tools" />
+    href="https://www.weusecoins.com/en/merchant-tools.html" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/verkaeufer-werkzeuge" />
+    href="https://www.weusecoins.com/de/verkaeufer-werkzeuge" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/bitcoin-commerce" />
+    href="https://www.weusecoins.com/fr/bitcoin-commerce" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/voor-handelaars" />
+    href="https://www.weusecoins.com/nl/voor-handelaars" />
 </url>
 <url>
-  <loc>http://bitcoin.org/de/verkaeufer-werkzeuge</loc>
+  <loc>https://www.weusecoins.com/de/verkaeufer-werkzeuge</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/merchant-tools" />
+    href="https://www.weusecoins.com/en/merchant-tools.html" />
   <xhtml:link
     rel="alternate"
     hreflang="ja"
-    href="https://www.weusecoins.org/ja/merchant" />
+    href="https://www.weusecoins.com/ja/merchant" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/bitcoin-commerce" />
+    href="https://www.weusecoins.com/fr/bitcoin-commerce" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/voor-handelaars" />
+    href="https://www.weusecoins.com/nl/voor-handelaars" />
 </url>
 <url>
-  <loc>http://bitcoin.org/fr/bitcoin-commerce</loc>
+  <loc>https://www.weusecoins.com/fr/bitcoin-commerce</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/merchant-tools" />
+    href="https://www.weusecoins.com/en/merchant-tools.html" />
   <xhtml:link
     rel="alternate"
     hreflang="ja"
-    href="https://www.weusecoins.org/ja/merchant" />
+    href="https://www.weusecoins.com/ja/merchant" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/verkaeufer-werkzeuge" />
+    href="https://www.weusecoins.com/de/verkaeufer-werkzeuge" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/voor-handelaars" />
+    href="https://www.weusecoins.com/nl/voor-handelaars" />
 </url>
 <url>
-  <loc>http://bitcoin.org/nl/voor-handelaars</loc>
+  <loc>https://www.weusecoins.com/nl/voor-handelaars</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/merchant-tools" />
+    href="https://www.weusecoins.com/en/merchant-tools.html" />
   <xhtml:link
     rel="alternate"
     hreflang="ja"
-    href="https://www.weusecoins.org/ja/merchant" />
+    href="https://www.weusecoins.com/ja/merchant" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/verkaeufer-werkzeuge" />
+    href="https://www.weusecoins.com/de/verkaeufer-werkzeuge" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/bitcoin-commerce" />
+    href="https://www.weusecoins.com/fr/bitcoin-commerce" />
 </url>
 <url>
-  <loc>http://bitcoin.org/en/team</loc>
+  <loc>https://www.weusecoins.com/en/team.html</loc>
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/equipe" />
+    href="https://www.weusecoins.com/fr/equipe" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/team" />
+    href="https://www.weusecoins.com/nl/team" />
 </url>
 <url>
-  <loc>http://bitcoin.org/fr/equipe</loc>
+  <loc>https://www.weusecoins.com/fr/equipe</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/team" />
+    href="https://www.weusecoins.com/en/team.html" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/team" />
+    href="https://www.weusecoins.com/nl/team" />
 </url>
 <url>
-  <loc>http://bitcoin.org/nl/team</loc>
+  <loc>https://www.weusecoins.com/nl/team</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/team" />
+    href="https://www.weusecoins.com/en/team.html" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/equipe" />
+    href="https://www.weusecoins.com/fr/equipe" />
 </url>
 <url>
-  <loc>http://bitcoin.org/en/materials</loc>
+  <loc>https://www.weusecoins.com/en/materials.html</loc>
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/materialien" />
+    href="https://www.weusecoins.com/de/materialien" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/materiel" />
+    href="https://www.weusecoins.com/fr/materiel" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/bronnen" />
+    href="https://www.weusecoins.com/nl/bronnen" />
 </url>
 <url>
-  <loc>http://bitcoin.org/de/materialien</loc>
+  <loc>https://www.weusecoins.com/de/materialien</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/materials" />
+    href="https://www.weusecoins.com/en/materials.html" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/materiel" />
+    href="https://www.weusecoins.com/fr/materiel" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/bronnen" />
+    href="https://www.weusecoins.com/nl/bronnen" />
 </url>
 <url>
-  <loc>http://bitcoin.org/fr/materiel</loc>
+  <loc>https://www.weusecoins.com/fr/materiel</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/materials" />
+    href="https://www.weusecoins.com/en/materials.html" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/materialien" />
+    href="https://www.weusecoins.com/de/materialien" />
   <xhtml:link
     rel="alternate"
     hreflang="nl"
-    href="https://www.weusecoins.org/nl/bronnen" />
+    href="https://www.weusecoins.com/nl/bronnen" />
 </url>
 <url>
-  <loc>http://bitcoin.org/nl/bronnen</loc>
+  <loc>https://www.weusecoins.com/nl/bronnen</loc>
   <xhtml:link
     rel="alternate"
     hreflang="en"
-    href="https://www.weusecoins.org/en/materials" />
+    href="https://www.weusecoins.com/en/materials.html" />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="https://www.weusecoins.org/de/materialien" />
+    href="https://www.weusecoins.com/de/materialien" />
   <xhtml:link
     rel="alternate"
     hreflang="fr"
-    href="https://www.weusecoins.org/fr/materiel" />
+    href="https://www.weusecoins.com/fr/materiel" />
 </url>
 </urlset>
