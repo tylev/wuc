@@ -4,7 +4,7 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <title>Guide sur le Minage - We Use Coins</title>
 <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
-<link rel="shortcut icon" href="/favicon.ico">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript"></script>
 <script src="scripts/vendor/jquery.backgroundPosition.js" type="text/javascript"></script>
 <script src="scripts/common.js" type="text/javascript"></script>
@@ -28,13 +28,13 @@
 </div>
 <div id="wrapper">
   <div id="header">
-    <div id="logo"><a href="/fr/"><span>We Use Coins</span></a></div>
+    <div id="logo"><a href="index.html"><span>We Use Coins</span></a></div>
     <ul id="menu">
-      <li id="menu_whatis"><a href="/fr/">C'est quoi Bitcoin?</a></li>
-      <li id="menu_getstarted"><a href="bitcoin-debuter">Débuter avec Bitcoin</a></li>
-      <li id="menu_qna"><a href="questions">Questions &amp; Réponses</a></li>
-      <li id="menu_merchants"><a href="bitcoin-commerce">Bitcoin pour les Commerces</a></li>
-      <li id="menu_mining"><a href="guide-minage">Guide sur le Minage</a></li>
+      <li id="menu_whatis"><a href="index.html">C'est quoi Bitcoin?</a></li>
+      <li id="menu_getstarted"><a href="bitcoin-debuter.html">Débuter avec Bitcoin</a></li>
+      <li id="menu_qna"><a href="questions.html">Questions &amp; Réponses</a></li>
+      <li id="menu_merchants"><a href="bitcoin-commerce.html">Bitcoin pour les Commerces</a></li>
+      <li id="menu_mining"><a href="guide-minage.html">Guide sur le Minage</a></li>
     </ul>
     <div class="clear">&nbsp;</div>
   </div>
@@ -45,7 +45,7 @@
 <h1 id="intro">Avant de commencer...</h1>
 <p>Avant d'aller plus loin, vous devez savoir que <strong>la plupart des utilisateurs du bitcoin ne font pas de minage !</strong> Le minage de bitcoin est une forme de commerce très compétitif. À moins que vous fassiez du minage uniquement pour le plaisir, vous devez trouver le moyen de le faire de façon très efficace afin de vous permettre de générer des profits..</p>
 <p>Si vous voulez obtenir des bitcoins sur la base d'une puissance de calcul précise mais que vous ne voulez pas vous occuper d'acquérir le matériel vous-même, vous pouvez acheter un contrat de minage.</p>
-<h1 id="technical">Détails techniques <a href="http://www.weusecoins.com/mining-guide.php#" class="blocktoggle">plus »</a></h1>
+<h1 id="technical">Détails techniques <a href="http://www.weusecoins.com/fr/guide-minage.html" class="blocktoggle">plus »</a></h1>
 <div class="block_outer">
 <div class="block" style="display: none">
 <p class="first">Durant le minage, votre ordinateur effectue des <a href="https://en.bitcoin.it/wiki/Proof_of_work">hashs cryptographiques</a> (deux SHA256 successifs) sur ce qu'on appelle une <em><a href="https://en.bitcoin.it/wiki/Block_hashing_algorithm">entête de bloc</a></em>. Pour chaque nouveau hash, le logiciel de minage utilise un nombre aléatoire différent qu'on appelle le <em>nonce</em>. Selon le contenu du bloc et la valeur du nonce, le hash produit aura une forme similaire à l'exemple suivant :</p>
@@ -66,7 +66,7 @@
 <p>Le monde du minage de bitcoin est maintenant en migration vers les Application Specific Integrated Circuit (ASIC). Un ASIC est une puce conçue spécifiquement afin d'accomplir une seule et unique tâche. Contrairement aux FPGAs, un ASIC ne peut pas être reprogrammé pour effectuer d'autres tâches. Un ASIC conçu pour miner des bitcoins ne peut et ne pourra rien faire d'autre que de miner des bitcoins. La rigidité d'un ASIC lui permet d'offrir une augmentation de la puissance de calcul de 100x tout en réduisant la consommation électrique comparativement à toutes les autres technologies. Par exemple, un appareil classique de offre 60 GH/s (1 Gigahash équivaut à 1000 Megahash. 1GH/s = 1000 Mh/s) tout en consommant 60w d'électricité. Comparativement au GPU, il s'agit d'une augmentation de la puissance de calcul de 100x et d'une réduction de la consommation électrique d'un facteur de 7.</p>
 <p>Contrairement aux générations de technologies qui ont précédées l'ASIC, l'ASIC est la "fin de la ligne" lorsqu'on parle de changement de technologie important. Les CPUs ont été remplacés par les GPUs, eux-même remplacés ensuite par les FPGAs qui ont été remplacés par les ASICs. Il n'y a rien qui puisse remplacer les ASICs aujourd'hui ou dans un futur immédiat. Il y aura des raffinements technologiques dans les produits ASIC et des améliorations dans l'efficacité énergétique mais rien qui ne corresponde à une augmentation de 50x à 100x de la puissance de calcul ni une réduction de 7x dans la consommation électrique comparativement à la technologie précédente. Ce qui signifie que l'efficacité énergétique d'un appareil ASIC est le seul facteur important de tout produit ASIC, puisque la durée de vie estimée d'un appareil ASIC est supérieure à l'histoire entière du minage de bitcoin. Il est concevable qu'un appareil ASIC acheté aujourd'hui soit toujours en opération dans deux ans si l'appareil offre encore une consommation électrique suffisamment économique pour demeurer profitable. La profitabilité du minage est aussi déterminée par la valeur du bitcoin mais dans tous les cas, plus un appareil a une bonne efficacité énergétique, plus il est profitable.</p>
 <h1 id="software">Logiciel</h1>
-<p>Il y a deux manières de faire du minage : par vous-même ou en faisant partie d'une équipe (un pool). Si vous faites du minage par vous-même, vous devez <a href="/fr/bitcoin-debuter">installer le logiciel Bitcoin</a> et le configurer pour JSON-RPC (voir: Faire fonctionner Bitcoin). L'autre option est de rejoindre un <a href="https://en.bitcoin.it/wiki/Pooled_mining">pool</a>. Il y a <a href="https://en.bitcoin.it/wiki/Category:Pool_Operators">plusieurs pools</a> disponibles. Avec un pool, le profit généré par n'importe quel bloc généré par un membre de l'équipe est divisé entre tous les membres de l'équipe. L'avantage de rejoindre une équipe est d'augmenter la fréquence et la stabilité des gains (c'est ce qu'on appelle réduire la variance) mais les gains seront inférieurs. Au final, vous gagnerez la même somme avec les deux approches. Miner en solo vous permet de toucher des gains énorme mais très peu fréquents, tandis que miner avec un pool peut vous offrir de petits gains stables et réguliers.</p>
+<p>Il y a deux manières de faire du minage : par vous-même ou en faisant partie d'une équipe (un pool). Si vous faites du minage par vous-même, vous devez <a href="/fr/bitcoin-debuter.html">installer le logiciel Bitcoin</a> et le configurer pour JSON-RPC (voir: Faire fonctionner Bitcoin). L'autre option est de rejoindre un <a href="https://en.bitcoin.it/wiki/Pooled_mining">pool</a>. Il y a <a href="https://en.bitcoin.it/wiki/Category:Pool_Operators">plusieurs pools</a> disponibles. Avec un pool, le profit généré par n'importe quel bloc généré par un membre de l'équipe est divisé entre tous les membres de l'équipe. L'avantage de rejoindre une équipe est d'augmenter la fréquence et la stabilité des gains (c'est ce qu'on appelle réduire la variance) mais les gains seront inférieurs. Au final, vous gagnerez la même somme avec les deux approches. Miner en solo vous permet de toucher des gains énorme mais très peu fréquents, tandis que miner avec un pool peut vous offrir de petits gains stables et réguliers.</p>
 <p>Une fois que vous avez votre logiciel configuré ou que vous avez rejoint un pool, la prochaine étape est de configurer le logiciel de minage. Le logiciel le plus populare pour GPU/FPGA/ASIC est présentement <a href="http://www.bitcointalk.org/index.php?topic=1334.0">CGminer</a> ou un dérivé conçu spécifiquement pour les FPGA et les ASICs, BFGMiner.</p>
 <p>Si vous voulez un aperçu rapide du minage sans installer de logiciel, essayez <a href="http://www.bitcoinplus.com/generate">Bitcoin Plus</a>, un mineur de Bitcoin fonctionnant dans votre navigateur avec votre CPU. Ce n'est aucunement profitable pour faire du minage sérieux, mais il s'agit d'une bonne démonstration du principe du minage en équipe.</p>
  
@@ -80,7 +80,7 @@
     <div class="clear"></div>
   </div>
   <div id="footer">
-	<div class="footermenu"><ul><li><a href="traductions">Traductions</a></li><li><a href="materiel">Matériel</a></li><li><a href="equipe">Équipe</a></li><li><a href="a-propos">À Propos</a></li></ul></div>
+	<div class="footermenu"><ul><li><a href="traductions.html">Traductions</a></li><li><a href="materiel.html">Matériel</a></li><li><a href="equipe.html">Équipe</a></li><li><a href="a-propos.html">À Propos</a></li></ul></div>
 	<a href="http://creativecommons.org/licenses/by/3.0/" class="cclogo"><img src="gx/footer_cc.png" alt=""/></a>
 	<div class="license">Ce travail est publié sous licence<br>
 	<a href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International</a>
