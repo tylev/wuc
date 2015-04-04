@@ -321,14 +321,11 @@
         </div>
         
         <div class="col-sm-5">
-        <h3>Feedback</h3>
-		<h4>Help us get better!</h4>
-        
-        <p>Our mission is to support Bitcoin by making it easier for new users to get started. Please contribute to our <a href="https://github.com/sunnankar/wuc">Github</a>.</p>
-        
+<a href="https://github.com/sunnankar/wuc"><img src='https://www.weusecoins.com/data_v2/images/feedback-1.png' title='We Use Coins Github' alt='We Use Coins Github' width="400" height="125" border='0' /></a>
         <div class="footer-box">
         <p>Email <a href="mailto:info@weusecoins.com?Subject=Weusecoins%20Info%20Mail" target="_top">info@weusecoins.com</a>.</p>
         <p>Need help? Email <a href="mailto:help@weusecoins.com?Subject=Weusecoins%20Help%20Mail" target="_top">help@weusecoins.com</a> to contact one of our volunteers.</p>
+
 	 </div>
     </div>
 	</div>
