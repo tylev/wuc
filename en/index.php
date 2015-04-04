@@ -262,7 +262,7 @@
 
     </form>
     
-	<a href="privacy">Privacy Policy</a>
+	<a href="privacy.html">Privacy Policy</a>
 </div>
 </div>
 
