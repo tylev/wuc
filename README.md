@@ -1,3 +1,13 @@
+# Contribute Articles
+
+We welcome the input of well written and accurate articles by members of the Bitcoin community. To make sure that your content gets the best opportunity possible to be read please follow these guidelines:
+
+1. Include an entry to the page in: https://github.com/sunnankar/wuc/blob/gh-pages/sitemap.xml
+2. Perform at least basic Search Engine Optimization on your page (Free tools: https://juxseo.zoomshift.com/)
+3. Attempt to find websites that will link to the page
+4. Mention the page on social media like Twitter (@WeUseCoins), Facebook (https://www.facebook.com/bitcoinknowledge), Reddit, etc.
+5. Thanks for your help!
+
 # For Web developers / Designers / Translators
 
 Each localized version of weusecoins is independent of each other and use static HTML, CSS or PHP files.
