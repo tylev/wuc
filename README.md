@@ -5,9 +5,10 @@ We welcome the input of well written and accurate articles by members of the Bit
 1. Include an entry to the page in: https://github.com/sunnankar/wuc/blob/gh-pages/sitemap.xml
 2. Perform at least basic Search Engine Optimization on your page (Free tools: https://juxseo.zoomshift.com/)
 3. Be sure to thoroughly link to other pages on weusecoins.com that are relevant.
-4. Attempt to find websites that will link to the page
-5. Mention the page on social media like Twitter (@WeUseCoins), Facebook (https://www.facebook.com/bitcoinknowledge), Reddit, etc.
-6. Thanks for your help!
+4. Make sure the page is validated: http://validator.w3.org/check
+5. Attempt to find websites that will link to the page
+6. Mention the page on social media like Twitter (@WeUseCoins), Facebook (https://www.facebook.com/bitcoinknowledge), Reddit, etc.
+7. Thanks for your help!
 
 # For Web developers / Designers / Translators
 
