@@ -87,7 +87,7 @@
 
 </div>
 
-<h1><center>What is Bitcoin?</h1></center>
+<center><h1>What is Bitcoin?</h1></center>
 <div class="youtube-player">
 <iframe width="800" height="450" frameborder="0" allowfullscreen="" src="//www.youtube.com/embed/Gc2en3nHxA4?fs=1&amp;hl=en_US&amp;rel=0&showinfo=0&wmode=opaque&amp;hd=1&amp;origin=http://www.weusecoins.com" type="text/html" style="margin:0 auto;" ></iframe>
 </div>
@@ -259,9 +259,6 @@
     }(document, "script", "aweber-wjs-c40dh7zu5"));
 </script>
     
-
-    </form>
-    
 	<a href="privacy.html">Privacy Policy</a>
 </div>
 </div>
@@ -321,7 +318,7 @@
         </div>
         
         <div class="col-sm-5">
-<a href="https://github.com/sunnankar/wuc"><img src='https://www.weusecoins.com/data_v2/images/feedback-1.png' title='We Use Coins Github' alt='We Use Coins Github' width="400" height="125" border='0' /></a>
+<a href="https://github.com/sunnankar/wuc"><img src='https://www.weusecoins.com/data_v2/images/feedback-1.png' title='We Use Coins Github' alt='We Use Coins Github' width="400" height="125" /></a>
         <div class="footer-box">
         <p>Email <a href="mailto:info@weusecoins.com?Subject=Weusecoins%20Info%20Mail" target="_top">info@weusecoins.com</a>.</p>
         <p>Need help? Email <a href="mailto:help@weusecoins.com?Subject=Weusecoins%20Help%20Mail" target="_top">help@weusecoins.com</a> to contact one of our volunteers.</p>
